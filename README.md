@@ -1,5 +1,5 @@
-## Image Processing HW1
-# Rotate 30 degrees without using library likes 
+# Image Processing HW1
+### Rotate 30 degrees without using library likes 
 ```python
 rotate(30, data)
 ```
