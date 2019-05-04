@@ -2,6 +2,7 @@
 > Rotate 30 degrees without using rotate library
 
 Source is a single English letter image and a nature image
+
 ![](https://i.imgur.com/x6mPnAX.png) ![](https://i.imgur.com/SLSwhLT.png)
 
 
@@ -13,6 +14,7 @@ $(x0,y0)$ is old coordinate and $(x1,y1)$ is new coordinate.
 > $y1 = x0 \times sin\theta + y0 \times cos\theta$
 
 In this method, some pixels will not get value
+
 ![](https://i.imgur.com/M6uVwf7.png)
 
 So I use inverse mapping
