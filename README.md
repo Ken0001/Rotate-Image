@@ -44,6 +44,7 @@ And then I use **Nearest Neighbor Interpolation** and **Bilinear Interpolation**
 ![](https://i.imgur.com/pleDUUs.png) ![](https://i.imgur.com/n5U8LAk.png)
 
 ![](https://i.imgur.com/WKuLcnQ.png) ![](https://i.imgur.com/gdrt7XM.png)
+
 **Different between NN and BI**
 ![](https://i.imgur.com/aOhrln6.png) ![](https://i.imgur.com/HQNlinT.png)
 
